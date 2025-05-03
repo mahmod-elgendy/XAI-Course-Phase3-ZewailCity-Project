@@ -41,13 +41,9 @@ Each model was trained, tested, and evaluated with performance metrics such as a
 
 ## 🔍 Explainability Techniques
 
-Four Explainable AI (XAI) methods were applied across different models:
-1. **SHAP (SHapley Additive exPlanations)**
-2. **LIME (Local Interpretable Model-agnostic Explanations)**
-3. **Feature Importance Visualization**
-4. **Confusion Matrix and ROC Curves**
-
+Four Explainable AI (XAI) methods were applied across different models from each Student:
 These techniques help to interpret the predictions and understand which features are most influential for each model.
+Even one of them is user friendly explaination.
 
 ---
 
